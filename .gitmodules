@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "adept"]
+	path = adept
+	url = https://github.com/martakarass/adept
+	shallow = true
+	registered = true
+[submodule "runstats"]
+	path = runstats
+	url = https://github.com/martakarass/runstats
+	shallow = true
+	registered = true

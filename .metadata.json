@@ -1,0 +1,10 @@
+[
+  {
+    "package": "adept",
+    "oncran": true
+  },
+  {
+    "package": "runstats",
+    "oncran": true
+  }
+]
