@@ -4,6 +4,18 @@
     "oncran": true
   },
   {
+    "package": "adeptdata",
+    "oncran": true
+  },
+  {
+    "package": "arctools",
+    "oncran": true
+  },
+  {
+    "package": "mdpeer",
+    "oncran": true
+  },
+  {
     "package": "runstats",
     "oncran": true
   }
