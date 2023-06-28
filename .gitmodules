@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "adept"]
 	path = adept
 	url = https://github.com/martakarass/adept
-	shallow = true
-	registered = true
 [submodule "adeptdata"]
 	path = adeptdata
 	url = https://github.com/martakarass/adeptdata
-	shallow = true
-	registered = true
 [submodule "arctools"]
 	path = arctools
 	url = https://github.com/martakarass/arctools
-	shallow = true
-	registered = true
 [submodule "mdpeer"]
 	path = mdpeer
 	url = https://github.com/martakarass/mdpeer
-	shallow = true
-	registered = true
 [submodule "runstats"]
 	path = runstats
 	url = https://github.com/martakarass/runstats
-	shallow = true
-	registered = true
